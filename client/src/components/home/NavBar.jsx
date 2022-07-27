@@ -1,6 +1,6 @@
 import React from 'react';
 import { Box , styled, Typography } from '@mui/material';
-import { navData } from '../constants/data';
+import { navData } from '../../constants/data';
 
 const Components = styled(Box)`
     display: flex;
